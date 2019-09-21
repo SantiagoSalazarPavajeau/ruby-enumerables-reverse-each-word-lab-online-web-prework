@@ -5,3 +5,4 @@ def reverse_each_word
   p reverse_string
 end
 
+reverse_each_word
